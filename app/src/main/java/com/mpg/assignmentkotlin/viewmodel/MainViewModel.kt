@@ -3,7 +3,7 @@ package com.mpg.assignmentkotlin.viewmodel
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.mpg.assignmentkotlin.data.TodoListRepository
+import com.mpg.assignmentkotlin.data.source.TodoListRepository
 import com.mpg.assignmentkotlin.data.model.NetworkState
 import com.mpg.assignmentkotlin.data.model.TodoModel
 import kotlinx.coroutines.launch
