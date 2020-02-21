@@ -1,3 +1,33 @@
 
-j
-:app/src/main/java/com/mpg/assignmentkotlin/MainActivity.kt,e\5\e59131e810aef28065a9c791445a450c0adfccee
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+~
+Napp/src/main/java/com/mpg/assignmentkotlin/data/source/network/ApiInterface.kt,b\5\b5b7aebc58248c7b7fbbdc2ec83b42fb2340672a
+u
+Eapp/src/main/java/com/mpg/assignmentkotlin/data/model/NetworkState.kt,b\0\b0bc00e9f7112b5d37306c16afcf65f8c6365d2a
+r
+Bapp/src/main/java/com/mpg/assignmentkotlin/data/model/TodoModel.kt,6\b\6b6e6455136626816578ea581cb9a8ad9f55af2a
+y
+Iapp/src/main/java/com/mpg/assignmentkotlin/di/module/ApplicationModule.kt,b\b\bb1dd02366ee31fd2745386be395f40eb8cf9f96
+y
+Iapp/src/main/java/com/mpg/assignmentkotlin/view/adapter/TodoViewHolder.kt,1\4\1489b83977e670003edba28bf32c1e38a3b55073
+w
+Gapp/src/main/java/com/mpg/assignmentkotlin/di/component/AppComponent.kt,8\c\8c873b9707f09f74aceddc55a25312eff4310974
+u
+Eapp/src/main/java/com/mpg/assignmentkotlin/di/module/NetworkModule.kt,4\e\4e83d7f51746f13d425e280af327793f09361331
+x
+Happ/src/main/java/com/mpg/assignmentkotlin/viewmodel/ViewModelFactory.kt,5\0\50e4e690a8c079149c03ddb870951de339c7a6b5
+z
+Japp/src/main/java/com/mpg/assignmentkotlin/view/adapter/TodoListAdapter.kt,7\8\786aea7faea0aeefb9c3817238f9483138305255
+i
+9app/src/main/java/com/mpg/assignmentkotlin/TodoDemoApp.kt,e\7\e7b6bc332d9790eb6ed77f58ee0e1a75e3783768
+z
+Japp/src/main/java/com/mpg/assignmentkotlin/view/activities/MainActivity.kt,9\b\9b346229f3f4bd217c1a19c393ddc6008d2c0384
+u
+Eapp/src/main/java/com/mpg/assignmentkotlin/viewmodel/MainViewModel.kt,1\6\166dc356d69031c4fbbffe30fc9abe5bf6d16760
+|
+Lapp/src/main/java/com/mpg/assignmentkotlin/data/source/TodoListRepository.kt,4\d\4dc939950ade20becec60ed1bb53c901060fdfbc
