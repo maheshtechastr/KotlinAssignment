@@ -2,7 +2,7 @@ package com.mpg.assignmentkotlin.di.module
 
 
 import com.mpg.assignmentkotlin.BuildConfig
-import com.mpg.assignmentkotlin.data.source.network.ApiInterface
+import com.mpg.assignmentkotlin.data.remote.network.ApiInterface
 import dagger.Module
 import dagger.Provides
 import okhttp3.OkHttpClient
@@ -28,7 +28,7 @@ class NetworkModule {
     @Singleton
     fun provideOkHttpClient(): OkHttpClient {
         val logging = HttpLoggingInterceptor()
-        logging.level = HttpLoggingInterceptor.Level.BASIC
+        logging.level = HttpLoggingInterceptor.Level.BODY
         val httpClient = OkHttpClient.Builder()
         return httpClient.addInterceptor(logging).build()
     }

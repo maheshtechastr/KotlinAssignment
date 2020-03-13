@@ -1,4 +1,4 @@
-package com.mpg.assignmentkotlin.viewmodel
+package com.mpg.assignmentkotlin.presentation.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

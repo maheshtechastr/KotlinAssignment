@@ -13,6 +13,11 @@
             <set />
           </value>
         </entry>
+        <entry key="/fragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/build.gradle">
           <value>
             <set />
@@ -43,12 +48,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/base/BaseActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/base/BaseViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/data/TodoListRepository.kt">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/data/model/NetworkResult.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/data/model/NetworkState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/data/model/ResultState.kt">
           <value>
             <set />
           </value>
@@ -64,6 +89,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/data/source/network/ApiInterface.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/data/source/network/ResponseResult.kt">
           <value>
             <set />
           </value>
@@ -84,6 +114,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/di/module/NetworkModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/presentation/view/activities/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/util/NetworkUtil.kt">
           <value>
             <set />
           </value>
@@ -179,6 +219,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../Rishabh/Assignment/app/src/main/java/com/example/assignment/ui/adapter/TodoAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Work/android-subscribe/app/src/main/java/com/msil/sharedmobility/subscribe/di/module/application/AppModule.kt">
           <value>
             <set />
           </value>

@@ -3,8 +3,8 @@ package com.mpg.assignmentkotlin.di.module
 import android.app.Application
 import android.content.Context
 import androidx.lifecycle.ViewModelProvider
-import com.mpg.assignmentkotlin.TodoDemoApp
-import com.mpg.assignmentkotlin.viewmodel.ViewModelFactory
+import com.mpg.assignmentkotlin.app.TodoDemoApp
+import com.mpg.assignmentkotlin.presentation.viewmodel.ViewModelFactory
 import dagger.Module
 import dagger.Provides
 
@@ -12,7 +12,8 @@ import dagger.Provides
 class ApplicationModule {
 
     @Provides
-    fun provideApplication(): TodoDemoApp = TodoDemoApp()
+    fun provideApplication(): TodoDemoApp =
+        TodoDemoApp()
 
     @Provides
     fun provideContext(application: Application): Context = application

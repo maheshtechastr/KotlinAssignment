@@ -3,7 +3,7 @@ package com.mpg.assignmentkotlin.di.component
 import android.app.Application
 import com.mpg.assignmentkotlin.di.module.ApplicationModule
 import com.mpg.assignmentkotlin.di.module.NetworkModule
-import com.mpg.assignmentkotlin.view.activities.MainActivity
+import com.mpg.assignmentkotlin.presentation.view.activities.MainActivity
 import dagger.BindsInstance
 import dagger.Component
 import javax.inject.Singleton

@@ -1,4 +1,4 @@
-package com.mpg.assignmentkotlin
+package com.mpg.assignmentkotlin.app
 
 import android.app.Application
 import com.mpg.assignmentkotlin.di.component.AppComponent

@@ -1,4 +1,4 @@
-package com.mpg.assignmentkotlin.view.adapter
+package com.mpg.assignmentkotlin.presentation.view.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -25,7 +25,9 @@ class TodoViewHolder(private val itemBinding: TodoListItemBinding) :
                     parent,
                     false
                 )
-            return TodoViewHolder(binding)
+            return TodoViewHolder(
+                binding
+            )
         }
     }
 }

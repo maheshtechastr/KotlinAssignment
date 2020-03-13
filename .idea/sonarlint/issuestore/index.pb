@@ -31,3 +31,5 @@ u
 Eapp/src/main/java/com/mpg/assignmentkotlin/viewmodel/MainViewModel.kt,1\6\166dc356d69031c4fbbffe30fc9abe5bf6d16760
 |
 Lapp/src/main/java/com/mpg/assignmentkotlin/data/source/TodoListRepository.kt,4\d\4dc939950ade20becec60ed1bb53c901060fdfbc
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e

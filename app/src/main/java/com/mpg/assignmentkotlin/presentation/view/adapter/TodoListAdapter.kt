@@ -1,4 +1,4 @@
-package com.mpg.assignmentkotlin.view.adapter
+package com.mpg.assignmentkotlin.presentation.view.adapter
 
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
@@ -6,11 +6,15 @@ import androidx.recyclerview.widget.ListAdapter
 import com.mpg.assignmentkotlin.R
 import com.mpg.assignmentkotlin.data.model.TodoModel
 
-class TodoListAdapter : ListAdapter<TodoModel, TodoViewHolder>(DIFF_CALLBACK) {
+class TodoListAdapter : ListAdapter<TodoModel, TodoViewHolder>(
+    DIFF_CALLBACK
+) {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): TodoViewHolder {
         return when (viewType) {
-            R.layout.todo_list_item -> TodoViewHolder.create(parent)
+            R.layout.todo_list_item -> TodoViewHolder.create(
+                parent
+            )
 
             else -> throw IllegalStateException("UnKnown view type $viewType")
         }
