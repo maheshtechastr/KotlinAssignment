@@ -1,9 +1,17 @@
 package com.mpg.assignmentkotlin.data.model
 
-sealed class NetworkResult<out T : Any>
+sealed class NetworkResult<out T : Any> {
 
-class ResultSuccess<out T : Any>(val data: T) : NetworkResult<T>()
-class ResultError(
-    val exception: Throwable,
-    val message: String = exception.localizedMessage
-) : NetworkResult<Nothing>()
+    data class Loading<out T : Any>(val data: T?) : NetworkResult<T>()
+    data class Success<out T : Any>(val data: T) : NetworkResult<T>()
+    data class Error(val exception: Exception) : NetworkResult<Nothing>()
+
+    override fun toString(): String {
+        return when (this) {
+            is Loading<*> -> "Loading[data=$data]"
+            is Success<*> -> "Success[data=$data]"
+            is Error -> "Error[exception=$exception]"
+        }
+    }
+}
+

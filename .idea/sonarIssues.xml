@@ -18,6 +18,246 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-runtime/3.6.1/bcd012ad001c76bd5ec95524c377c9e310ee0667/databinding-runtime-3.6.1-sources.jar!/androidx/databinding/DataBindingUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.7.0/e8b5af7f78bfcce753d552d31bdae1614d2e614a/retrofit-2.7.0-sources.jar!/retrofit2/Response.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.6/bc9c98d51bade8ad2f03ac8c44d219c1818c40f5/rxjava-2.1.6-sources.jar!/io/reactivex/Single.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.61/fe3b9d48f4c3947639b6b1760213c1b79281383e/kotlin-stdlib-common-1.3.61-sources.jar!/generated/_Arrays.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/data/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/data/src/main/java/com/mpg/sampledemo/data/remote/APITodo.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/data/src/main/java/com/mpg/sampledemo/data/remote/ApiTodo.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/data/src/main/java/com/mpg/sampledemo/data/remote/ITodoApi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/data/src/main/java/com/mpg/sampledemo/data/remote/TodoApi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/data/src/main/java/com/mpg/sampledemo/data/remote/api/ITodoApi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/data/src/main/java/com/mpg/sampledemo/data/remote/dto/CommonResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/data/src/main/java/com/mpg/sampledemo/data/remote/dto/TodoDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/data/src/main/java/com/mpg/sampledemo/data/repository/BaseRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/data/src/main/java/com/mpg/sampledemo/data/repository/TodoRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/data/src/main/java/com/mpg/sampledemo/data/repository/todo/TodoRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/domain/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/domain/src/main/java/com/mpg/sampledemo/domain/UseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/domain/src/main/java/com/mpg/sampledemo/domain/common/ResultState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/domain/src/main/java/com/mpg/sampledemo/domain/entities/Entity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/domain/src/main/java/com/mpg/sampledemo/domain/entities/TodoEntity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/domain/src/main/java/com/mpg/sampledemo/domain/repositories/BaseRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/domain/src/main/java/com/mpg/sampledemo/domain/repositories/todo/TodoRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/domain/src/main/java/com/mpg/sampledemo/domain/repositories/todorepository/TodoRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/domain/src/main/java/com/mpg/sampledemo/domain/usecases/BaseUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/domain/src/main/java/com/mpg/sampledemo/domain/usecases/UseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/domain/src/main/java/com/mpg/sampledemo/domain/usecases/todo/TodoUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Assignments/SampleDemo/domain/src/main/java/com/mpg/sampledemo/domain/usecases/todo/TodoUseCaseImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/CleanCoroutineSample/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/CleanCoroutineSample/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/CleanCoroutineSample/app/src/main/java/com/mpg/cleancoroutinesample/App.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/CleanCoroutineSample/app/src/main/java/com/mpg/cleancoroutinesample/data/error/mapper/ErrorMapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/CleanCoroutineSample/app/src/main/java/com/mpg/cleancoroutinesample/data/remote/ServiceGenerator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/CleanCoroutineSample/app/src/main/java/com/mpg/cleancoroutinesample/ui/component/details/DetailsActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/CleanCoroutineSample/app/src/main/java/com/mpg/cleancoroutinesample/ui/component/news/NewsListActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/CleanCoroutineSample/app/src/main/java/com/mpg/cleancoroutinesample/ui/component/news/newsAdapter/NewsAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/CleanCoroutineSample/app/src/main/java/com/mpg/cleancoroutinesample/ui/component/news/newsAdapter/NewsViewHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/CleanCoroutineSample/app/src/main/java/com/mpg/cleancoroutinesample/ui/component/splash/SplashActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/CleanCoroutineSample/app/src/main/java/com/mpg/cleancoroutinesample/utils/L.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/CleanCoroutineSample/app/src/main/java/com/mpg/cleancoroutinesample/utils/ViewExt.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/CleanCoroutineSample/app/src/main/res/layout/splash_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/CleanCoroutineSample/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Flutterapp/FlutterAssignmentTodoApp/contact_app/lib/main.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Flutterapp/HelloWorld/helloworld/lib/src/models/result.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Flutterapp/HelloWorld/helloworld/lib/src/resource/TodoApiProvider.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/Flutterapp/HelloWorld/helloworld/lib/src/screens/todo_list.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android_Projects/MVVM-Kotlin-Android-Architecture/app/src/main/java/com/task/data/remote/ServiceGenerator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/build.gradle">
           <value>
             <set />
@@ -44,6 +284,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/TodoDemoApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/app/TodoDemoApp.kt">
           <value>
             <set />
           </value>
@@ -83,6 +328,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/data/remote/TodoListRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/data/remote/network/ApiInterface.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/data/source/TodoListRepository.kt">
           <value>
             <set />
@@ -118,7 +373,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/presentation/view/activities/A.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/presentation/view/activities/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/mpg/assignmentkotlin/presentation/viewmodel/MainViewModel.kt">
           <value>
             <set />
           </value>

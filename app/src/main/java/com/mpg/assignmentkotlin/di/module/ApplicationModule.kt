@@ -11,9 +11,8 @@ import dagger.Provides
 @Module
 class ApplicationModule {
 
-    @Provides
-    fun provideApplication(): TodoDemoApp =
-        TodoDemoApp()
+//    @Provides
+//    fun provideApplication(todoDemoApp: TodoDemoApp): TodoDemoApp = todoDemoApp
 
     @Provides
     fun provideContext(application: Application): Context = application
